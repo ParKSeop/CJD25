@@ -17,7 +17,7 @@ const Home = () => {
     const surveyText = "홈페이지 문의";
 
     const openkatalkLink = "https://open.kakao.com/o/gJPUJs7f";
-    const questionLink = "https://docs.google.com/forms/d/e/1FAIpQLSexVuPjIxPiWLS5nVyu5GrHnUsj3sDAMWiV5ylicPYvrbxETA/viewform";
+    const questionLink = "https://forms.gle/5b9ZveJ7KcJPgRoF8";
     const surveyLink = "https://docs.google.com/forms/d/e/1FAIpQLSebbJ5LLDjltM3N2mRO_B6CSPfr-JxvVHv3XVKZG0vc7pbtmw/viewform"
     
     return (
