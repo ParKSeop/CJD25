@@ -15,7 +15,7 @@ code{
 }
 
 .App{
-  background-color:#FEF3DD;
+  background-color:#F87F30;
   color:#a47864;
   font-family:krfont,Malgun Gothic,sans-serif;
   font-size:4vmin;
@@ -133,7 +133,7 @@ code{
 }
 
 #tail{
-  color:#fff;
+  color:#a47864;
   font-size:3vmin
 }
 
